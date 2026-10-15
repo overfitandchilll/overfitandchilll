@@ -68,6 +68,8 @@ Training accuracy is cute, but generalization is cuter. ♡
 
 *stay curious, lift heavy, read wildly & don't overfit your dreams.*
 
+<!-- made with love & a little overfitting 🎀 -->
+
 🐰 🎀 🌷
 
 </div>
